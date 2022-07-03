@@ -6,8 +6,7 @@
 
 ---
 ### TOOLBOX
-<img src ="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R LOGO" width="60" height="60" />
-<img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="R LOGO" width="60" height="60" />
+<img src ="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R LOGO" width="60" height="60" />   <img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="R LOGO" width="60" height="60" />
 <!--
 **OreBank/OreBank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
