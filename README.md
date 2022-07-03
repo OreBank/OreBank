@@ -1,4 +1,5 @@
-### Hi there 👋, I am Abdullah Oreoluwa Bankole.
+### Hi there 👋, I am Abdullah Oreoluwa Bankole!
+![Twitter Follow](https://img.shields.io/twitter/follow/BankoleOre?style=social)
 
 <!--
 **OreBank/OreBank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
