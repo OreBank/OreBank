@@ -1,6 +1,12 @@
 ### Hi there 👋, I am Abdullah Oreoluwa Bankole!
+
+---
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/BankoleOre?style=social)
 
+---
+### TOOLBOX
+<img src ="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R LOGO" width="60" height="60" />
 <!--
 **OreBank/OreBank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
