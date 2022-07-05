@@ -1,13 +1,13 @@
 ### Hi there 👋, I am Abdullah Oreoluwa Bankole!
 
 ---
-I am a certified Data Analyst with certifications from [Google](https://coursera.org/share/ff65e72cc919b4c7f7ff1b18fd7e5604) and [Microsoft](https://www.credly.com/badges/c8261f14-6c91-463c-bbd0-52a41a5e3c94/public_url).
+I am a certified Data Analyst with certifications from [Google](https://coursera.org/share/ff65e72cc919b4c7f7ff1b18fd7e5604) and [Microsoft](https://www.credly.com/badges/c8261f14-6c91-463c-bbd0-52a41a5e3c94/public_url). I can turn raw data into inforation and give reasonable insights!
 Connect with me on [Twitter](https://twitter.com/BankoleOre) and [LinkedIn](https://www.linkedin.com/in/abdullahbankole/)
 
 ---
 ### TOOLBOX
- <img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL LOGO" width="60" height="60" /> <img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="POSTGRE LOGO" width="60" height="60" />  <img src ="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R LOGO" width="60" height="60" />   <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="POSTGRE LOGO" width="60" height="60" /> 
-<img src= "https://github.com/vorillaz/devicons/blob/master/!SVG/msql_server.svg" alt="POSTGRE LOGO" width="60" height="60" />
+<img src ="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="EXCEL LOGO" width="60" height="60" /> <img src ="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="PowerBi LOGO" width="60" height="60" /> <img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL LOGO" width="60" height="60" /> <img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="POSTGRE LOGO" width="60" height="60" />  <img src ="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R LOGO" width="60" height="60" />   <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="POSTGRE LOGO" width="60" height="60" /> 
+<img src= "https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="POSTGRE LOGO" width="60" height="60" />
 
 <!--
 **OreBank/OreBank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
