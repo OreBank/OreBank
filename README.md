@@ -9,6 +9,12 @@ Connect with me on [Twitter](https://twitter.com/BankoleOre) and [LinkedIn](http
 <img src ="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="EXCEL LOGO" width="60" height="60" /> <img src ="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="PowerBi LOGO" width="60" height="60" /> <img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL LOGO" width="60" height="60" /> <img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="POSTGRE LOGO" width="60" height="60" />  <img src ="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R LOGO" width="60" height="60" />   <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="POSTGRE LOGO" width="60" height="60" /> 
 <img src= "https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="POSTGRE LOGO" width="60" height="60" />
 
+---
+### Certifications
+![Microsoft_Certified_Professional_Certificate_0_page-0001](https://user-images.githubusercontent.com/57878434/177330699-4ceac2a8-aaa6-49b1-8769-618589d62511.jpg),
+![Google Data Analyst _page-0001](https://user-images.githubusercontent.com/57878434/177331440-76097720-2073-4257-aa8b-4974ecfcadbb.jpg)
+
+
 <!--
 **OreBank/OreBank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
