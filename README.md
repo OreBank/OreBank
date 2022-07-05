@@ -12,7 +12,7 @@ Connect with me on [Twitter](https://twitter.com/BankoleOre) and [LinkedIn](http
 ---
 ### Certifications
 
-<img src ="https://user-images.githubusercontent.com/57878434/177330699-4ceac2a8-aaa6-49b1-8769-618589d62511.jpg" alt="MCDAA-CERT" width="500" height="500" /> <img src ="https://user-images.githubusercontent.com/57878434/177331440-76097720-2073-4257-aa8b-4974ecfcadbb.jpg" alt="GOOGE-CERT" width="500" height="500" />
+<img src ="https://user-images.githubusercontent.com/57878434/177330699-4ceac2a8-aaa6-49b1-8769-618589d62511.jpg" alt="MCDAA-CERT" width="400" height="400" /> <img src ="https://user-images.githubusercontent.com/57878434/177331440-76097720-2073-4257-aa8b-4974ecfcadbb.jpg" alt="GOOGE-CERT" width="400" height="400" />
 
 
 <!--
