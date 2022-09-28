@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Abdullah Oreoluwa Bankole!
 
 ---
-I am a certified Data Analyst with certifications from [Google](https://coursera.org/share/ff65e72cc919b4c7f7ff1b18fd7e5604) and [Microsoft](https://www.credly.com/badges/c8261f14-6c91-463c-bbd0-52a41a5e3c94/public_url). I can turn raw data into inforation and give reasonable insights!
+I am a certified Data Analyst with certifications from [Google](https://coursera.org/share/ff65e72cc919b4c7f7ff1b18fd7e5604) and [Microsoft](https://www.credly.com/badges/c8261f14-6c91-463c-bbd0-52a41a5e3c94/public_url). I can turn raw data into information and give reasonable insights!
 Connect with me on [Twitter](https://twitter.com/BankoleOre) and [LinkedIn](https://www.linkedin.com/in/abdullahbankole/)
 
 ---
