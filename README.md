@@ -8,14 +8,13 @@ Connect with me on [Twitter](https://twitter.com/Ore_Bankole) and [LinkedIn](htt
 ### 🧰 My Toolbox
 I work with a variety of powerful tools to solve complex data problems. Here's a snapshot:
 
-- **Excel** ![EXCEL](https://cdn.worldvectorlogo.com/logos/excel-4.svg | width=40)
-- **Power BI** ![Power BI](https://cdn.worldvectorlogo.com/logos/power-bi-1.svg | width=40)
-- **MySQL** ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg | width=40)
-- **PostgreSQL** ![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg | width=40)
-- **R** ![R](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg | width=40)
-- **Python** ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg | width=40)
-- **SQL Server** ![SQL Server](https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg | width=40)
-
+- **Excel** <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" width="30"/>
+- **Power BI** <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" width="30"/>
+- **MySQL** <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="30"/>
+- **PostgreSQL** <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="30"/>
+- **R** <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="30"/>
+- **Python** <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="30"/>
+- **SQL Server** <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="30"/>
 
 ---
 ### 🏆 Certifications
