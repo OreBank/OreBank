@@ -8,13 +8,14 @@ Connect with me on [Twitter](https://twitter.com/Ore_Bankole) and [LinkedIn](htt
 ### 🧰 My Toolbox
 I work with a variety of powerful tools to solve complex data problems. Here's a snapshot:
 
-- **Excel** ![EXCEL](https://cdn.worldvectorlogo.com/logos/excel-4.svg)
-- **Power BI** ![Power BI](https://cdn.worldvectorlogo.com/logos/power-bi-1.svg)
-- **MySQL** ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
-- **PostgreSQL** ![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg)
-- **R** ![R](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg)
-- **Python** ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
-- **SQL Server** ![SQL Server](https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg)
+- **Excel** ![EXCEL](https://cdn.worldvectorlogo.com/logos/excel-4.svg | width=40)
+- **Power BI** ![Power BI](https://cdn.worldvectorlogo.com/logos/power-bi-1.svg | width=40)
+- **MySQL** ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg | width=40)
+- **PostgreSQL** ![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg | width=40)
+- **R** ![R](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg | width=40)
+- **Python** ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg | width=40)
+- **SQL Server** ![SQL Server](https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg | width=40)
+
 
 ---
 ### 🏆 Certifications
@@ -37,8 +38,8 @@ I'm committed to continuous learning and hold the following certifications:
 ### 📫 Get in Touch
 I'm always happy to connect and collaborate. You can reach me via the following:
 
-- [Email](mailto:example@email.com)
-- [Twitter](https://twitter.com/BankoleOre)
+- [Email](mailto:abdullahbankole@gmail.com)
+- [Twitter](https://twitter.com/Ore_Bankole)
 - [LinkedIn](https://www.linkedin.com/in/abdullahbankole/)
 
 ---
