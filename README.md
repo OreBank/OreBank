@@ -20,7 +20,7 @@ I work with a variety of powerful tools to solve complex data problems. Here's a
 ### 🏆 Certifications
 I'm committed to continuous learning and hold the following certifications:
 
-- [Microsoft Certified Data Analyst Associate](https://www.credly.com/badges/c8261f14-6c91-463c-bbd0-52a41a5e3c94/public_url)  
+- [Microsoft Certified Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/AbdullahBankole-5327/57906D69D3BF18DA?sharingId=A7307DE93986ACC8)  
   
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/ff65e72cc919b4c7f7ff1b18fd7e5604)  
 
