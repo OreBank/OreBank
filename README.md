@@ -21,10 +21,11 @@ I work with a variety of powerful tools to solve complex data problems. Here's a
 I'm committed to continuous learning and hold the following certifications:
 
 - [Microsoft Certified Data Analyst Associate](https://www.credly.com/badges/c8261f14-6c91-463c-bbd0-52a41a5e3c94/public_url)  
-  ![MCDAA](https://user-images.githubusercontent.com/57878434/177330699-4ceac2a8-aaa6-49b1-8769-618589d62511.jpg)
+  <img src="https://user-images.githubusercontent.com/57878434/177330699-4ceac2a8-aaa6-49b1-8769-618589d62511.jpg" width="200" height="200"/>
 
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/ff65e72cc919b4c7f7ff1b18fd7e5604)  
-  ![Google Cert](https://user-images.githubusercontent.com/57878434/177331440-76097720-2073-4257-aa8b-4974ecfcadbb.jpg)
+  <img src="https://user-images.githubusercontent.com/57878434/177331440-76097720-2073-4257-aa8b-4974ecfcadbb.jpg" width="200" height="200"/>
+
 
 ### 🚀 Current Projects & Interests
 - 🔭 Working on developing advanced data visualizations and dashboards using **Power BI**.
