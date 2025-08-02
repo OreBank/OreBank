@@ -1,31 +1,48 @@
-### Hi there 👋, I am Abdullah Oreoluwa Bankole!
+# Hi there 👋, I am Abdullah Oreoluwa Bankole!
 
 ---
 I am a certified Data Analyst with certifications from [Google](https://coursera.org/share/ff65e72cc919b4c7f7ff1b18fd7e5604) and [Microsoft](https://www.credly.com/badges/c8261f14-6c91-463c-bbd0-52a41a5e3c94/public_url). I can turn raw data into information and give reasonable insights!
-Connect with me on [Twitter](https://twitter.com/BankoleOre) and [LinkedIn](https://www.linkedin.com/in/abdullahbankole/)
+Connect with me on [Twitter](https://twitter.com/Ore_Bankole) and [LinkedIn](https://www.linkedin.com/in/abdullahbankole/)
 
 ---
-### 🧰 TOOLBOX
-<img src ="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="EXCEL LOGO" width="60" height="60" /> <img src ="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="PowerBi LOGO" width="60" height="60" /> <img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL LOGO" width="60" height="60" /> <img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="POSTGRE LOGO" width="60" height="60" />  <img src ="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R LOGO" width="60" height="60" />   <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="POSTGRE LOGO" width="60" height="60" /> 
-<img src= "https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="POSTGRE LOGO" width="60" height="60" />
+### 🧰 My Toolbox
+I work with a variety of powerful tools to solve complex data problems. Here's a snapshot:
+
+- **Excel** ![EXCEL](https://cdn.worldvectorlogo.com/logos/excel-4.svg)
+- **Power BI** ![Power BI](https://cdn.worldvectorlogo.com/logos/power-bi-1.svg)
+- **MySQL** ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
+- **PostgreSQL** ![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg)
+- **R** ![R](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg)
+- **Python** ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
+- **SQL Server** ![SQL Server](https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg)
 
 ---
-### Certifications
+### 🏆 Certifications
+I'm committed to continuous learning and hold the following certifications:
 
-<img src ="https://user-images.githubusercontent.com/57878434/177330699-4ceac2a8-aaa6-49b1-8769-618589d62511.jpg" alt="MCDAA-CERT" width="400" height="400" /> <img src ="https://user-images.githubusercontent.com/57878434/177331440-76097720-2073-4257-aa8b-4974ecfcadbb.jpg" alt="GOOGE-CERT" width="400" height="400" />
+- [Microsoft Certified Data Analyst Associate](https://www.credly.com/badges/c8261f14-6c91-463c-bbd0-52a41a5e3c94/public_url)  
+  ![MCDAA](https://user-images.githubusercontent.com/57878434/177330699-4ceac2a8-aaa6-49b1-8769-618589d62511.jpg)
 
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/ff65e72cc919b4c7f7ff1b18fd7e5604)  
+  ![Google Cert](https://user-images.githubusercontent.com/57878434/177331440-76097720-2073-4257-aa8b-4974ecfcadbb.jpg)
 
-<!--
-**OreBank/OreBank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Current Projects & Interests
+- 🔭 Working on developing advanced data visualizations and dashboards using **Power BI**.
+- 🌱 Learning more about **AI** and **Machine Learning** to deepen my analytical capabilities.
+- 🤝 Always open to collaborating on interesting **data science** and **business intelligence** projects.
+- 💬 Feel free to reach out for advice on **data analytics**, **SQL**, or **Power BI**!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in Touch
+I'm always happy to connect and collaborate. You can reach me via the following:
+
+- [Email](mailto:example@email.com)
+- [Twitter](https://twitter.com/BankoleOre)
+- [LinkedIn](https://www.linkedin.com/in/abdullahbankole/)
+
+---
+
+### ⚡ Fun Fact
+In my spare time, I enjoy exploring new data technologies, attending industry events, and mentoring aspiring data analysts.
+
